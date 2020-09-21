@@ -1,6 +1,6 @@
 {
   "name": "@super-formal/rn-date-time-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DateTime Input component for react-native.",
   "main": "src/DateTimeInput.js",
   "scripts": {

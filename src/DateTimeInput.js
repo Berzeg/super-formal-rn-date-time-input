@@ -12,10 +12,10 @@ import TimeSelector from './TimeSelector';
 
 export default ({
   style: {marginBottom} = {marginBottom: 0},
-  label,
+  label = "",
   value,
   hasError = false,
-  onActive,
+  onActive = () => {},
   onChange,
 }) => {
   const [isActive, setActive] = useState(false);
