@@ -1,0 +1,37 @@
+{
+  "name": "@super-formal/rn-date-time-input",
+  "version": "0.1.0",
+  "description": "DateTime Input component for react-native.",
+  "main": "src/DateTimeInput.js",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Berzeg/super-formal-rn-date-time-input.git"
+  },
+  "keywords": [
+    "super-formal",
+    "react-native",
+    "datetime",
+    "time",
+    "date",
+    "datetime input",
+    "time input",
+    "date input",
+    "component"
+  ],
+  "author": "Hashem Berzeg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berzeg/super-formal-rn-date-time-input/issues"
+  },
+  "homepage": "https://github.com/Berzeg/super-formal-rn-date-time-input#readme",
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-native": "0.63.0"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
