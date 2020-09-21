@@ -3,8 +3,7 @@
 DateTime input component for react-native.
 
 <p align="center">
-  <img src="img/screenshot_form_component.png" width="20%"/>
-  <img src="img/screenshot_modal.png" width="20%"/>
+  <img src="img/demonstration.png" width="50%"/>
 </p>
 
 ## Index
